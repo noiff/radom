@@ -1,6 +1,6 @@
 {
   "name": "radom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "JavaScript random string generator.",
   "main": "radom.js",
   "scripts": {
