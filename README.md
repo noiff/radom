@@ -1,4 +1,4 @@
-# radom.js
+# Radom
 
 Radom (not random) is simple random string generator.
 
