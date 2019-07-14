@@ -1,0 +1,19 @@
+{
+  "name": "radom",
+  "version": "0.1.0",
+  "description": "JavaScript random string generator.",
+  "main": "radom.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "generator"
+  ],
+  "author": "Michal Koczkodon <michal.koczkodon@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
