@@ -12,7 +12,11 @@
     "generator"
   ],
   "author": "Michal Koczkodon <michal.koczkodon@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/noiff/radom.git"
+  },
   "devDependencies": {
     "jest": "^24.8.0"
   }
